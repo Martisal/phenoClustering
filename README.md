@@ -4,7 +4,7 @@ This repository contains the complete results of the experiments presented in th
 
 M. Saletta, A. Bombarda, M. Bellini, L. Goisis, P. Cazzaniga, M. Iascone and D.F. Savo. "*Automated Phenotype-Based Clustering of Clinical Reports Using Large Language Models*". Submitted to International Conference on Artificial Intelligence in Medicine (AIME). 2025.
 
-The files [`textclusters.html`](./textclusters.html) and [`phenoclusters.html`](./phenoclusters.html) are 2-dimensional visualizations (obtained by reducing the dimensionality with t-SNE) of the document vectors obtained from the original text and from the extracted phenotypes, respectively. 
+The files [`textclusters.html`](https://htmlpreview.github.io/?https://github.com/Martisal/phenoClustering/blob/main/textclusters.html) and [`phenoclusters.html`](https://htmlpreview.github.io/?https://github.com/Martisal/phenoClustering/blob/main/phenoclusters.html) are 2-dimensional visualizations (obtained by reducing the dimensionality with t-SNE) of the document vectors obtained from the original text and from the extracted phenotypes, respectively. 
 
 The identified clusters are summarized in the following table:
 
