@@ -69,6 +69,12 @@ The identified clusters are summarized in the following table, along with the co
 |56|   Intellectual disability - 0.11 |Head disorders (vision, bones, cartilage) - 0.06|
 |57| Heterogeneous phenotypes - 0.01 |Migraine - 0.53|         
 
+
+Clusters can be used for further statistical and predictive analysis. As an example, the following barplots report the percentage of positive cases in each cluster.
+
+![Clusters from text:](./textbar.eps)
+
+![Clusters from phenotypes](./phenobar.eps)
 # Citation
 
 If you find this repository useful for your work, please include the following citation:
