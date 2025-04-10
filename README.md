@@ -72,9 +72,9 @@ The identified clusters are summarized in the following table, along with the co
 
 Clusters can be used for further statistical and predictive analysis. As an example, the following barplots report the percentage of positive cases in each cluster.
 
-![Clusters from text:](./textbar.eps)
+![Clusters from text:](./textbar.png)
 
-![Clusters from phenotypes](./phenobar.eps)
+![Clusters from phenotypes](./phenobar.png)
 # Citation
 
 If you find this repository useful for your work, please include the following citation:
